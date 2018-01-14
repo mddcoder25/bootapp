@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BootAppApplication {
 
 	/*
-	 * Test branch comment - hotfix
+	 * Test branch comment - hotfix other test
 	 */
 	public static void main(String[] args) {
 		SpringApplication.run(BootAppApplication.class, args);
